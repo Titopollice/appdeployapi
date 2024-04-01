@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net8.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/219156b7-3ecb-41c4-85ab-5bcbf2f53b49/resourceGroups/Gerencia/providers/Microsoft.Web/sites/webapi-tiago-uninrv"
+}
